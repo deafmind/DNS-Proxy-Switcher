@@ -87,7 +87,6 @@ The application loads DNS configurations from a JSON file located at `../Config/
       "description": "Cloudflare's public DNS servers"
     }
   }
-  ...
 }
 ```
 You can add or modify entries in this file to include additional DNS providers.
