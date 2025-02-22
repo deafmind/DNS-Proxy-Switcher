@@ -4,7 +4,7 @@
             "servers": [
               "",""
           ],
-            "description": "Custom DNS",
+            "description": "Custom DNS"
       },
         "Google DNS": {
             "servers": [
